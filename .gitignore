@@ -1,4 +1,5 @@
 # Right click - add to .gitignore:
+# Master - main miatt nem működött a .gitignore?
 
 /target/
 /.idea/

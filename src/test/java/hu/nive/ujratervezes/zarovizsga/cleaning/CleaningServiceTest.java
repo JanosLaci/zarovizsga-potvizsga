@@ -1,4 +1,3 @@
-/*
 package hu.nive.ujratervezes.zarovizsga.cleaning;
 
 import org.junit.jupiter.api.BeforeEach;
@@ -47,4 +46,4 @@ class CleaningServiceTest {
     void getAddresses() {
         assertEquals("Bp. Fo ut 1., Bp. Fo ut 2., Bp. Fo ut 3., Bp. Fo ut 4.", service.getAddresses());
     }
-}*/
+}

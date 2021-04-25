@@ -1,4 +1,3 @@
-/*
 package hu.nive.ujratervezes.zarovizsga.peoplesql;
 
 import org.flywaydb.core.Flyway;
@@ -36,4 +35,4 @@ class PeopleDaoTest {
         assertEquals("134.135.61.66", peopleDao.findIpByName("Brina", "Snibson"));
         assertEquals("97.203.249.128", peopleDao.findIpByName("Torrence", "Porteous"));
     }
-}*/
+}

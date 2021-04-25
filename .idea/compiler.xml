@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="zarovizsga-potvizsga" target="15" />
+      <module name="zarovizsga-potvizsga" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
